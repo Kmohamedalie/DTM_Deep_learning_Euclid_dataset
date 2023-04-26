@@ -20,4 +20,4 @@ Model Architecture: 2Cov, 2MaxPool, Flatten, Dense, Final output
 
 
 <h3><b>:</b></h3><br>
-You can download the alreading trained model load it to your IDE and make prediction:
+You can download the alreading <a href="https://github.com/Kmohamedalie/DTM_Deep_learning_Euclid_dataset/blob/master/Trained_Euclid_model.sav">trained model load it to your IDE and make prediction:</a>
