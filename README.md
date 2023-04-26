@@ -17,5 +17,6 @@ Model Architecture: 2Cov, 2MaxPool, Flatten, Dense, Final output
 
 
 
-![image](https://user-images.githubusercontent.com/63104472/234478178-ad516d6e-bc75-4fcb-8cf0-c22cb2c20dcc.png)
+![image](https://user-images.githubusercontent.com/63104472/234478794-67bf1708-89d8-4d53-b143-6afc3d815e08.png)
+
 
