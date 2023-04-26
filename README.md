@@ -3,12 +3,6 @@ The Euclid dataset was created by <a href="https://www.unibo.it/sitoweb/guido.bo
 <br/>
 <img src="https://www.dummies.com/wp-content/uploads/258491.image3.jpg">
 
-<br/>
-<h4><b>Validation accuracy:</b></h4><br>
-![image](https://user-images.githubusercontent.com/63104472/234475797-230ec5c3-3614-452a-8ad1-7dc8a61940f2.png)
-
-
-
 
 
 <h4><b>Final output:</b></h4><br>
@@ -20,6 +14,9 @@ Model Architecture: 2Cov, 2MaxPool, Flatten, Dense, Final output
 <br><hr><br>
 
 <br/>
+
+<h4><b>Validation accuracy:</b></h4><br>
+![image](https://user-images.githubusercontent.com/63104472/234475797-230ec5c3-3614-452a-8ad1-7dc8a61940f2.png)
 
 
 
