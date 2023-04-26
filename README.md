@@ -5,7 +5,8 @@ The Euclid dataset was created by <a href="https://www.unibo.it/sitoweb/guido.bo
 
 <br/>
 <h4><b>Validation accuracy:</b></h4><br>
-![image](https://user-images.githubusercontent.com/63104472/234475632-1a015251-5459-48a3-a6db-cef317334d16.png)
+![image](https://user-images.githubusercontent.com/63104472/234475797-230ec5c3-3614-452a-8ad1-7dc8a61940f2.png)
+
 
 
 
