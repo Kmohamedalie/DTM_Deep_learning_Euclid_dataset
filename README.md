@@ -19,3 +19,5 @@ Model Architecture: 2Cov, 2MaxPool, Flatten, Dense, Final output
 ![image](https://user-images.githubusercontent.com/63104472/234478794-67bf1708-89d8-4d53-b143-6afc3d815e08.png)
 
 
+<h3><b>:</b></h3><br>
+You can download the alreading trained model load it to your IDE and make prediction:
