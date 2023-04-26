@@ -12,12 +12,10 @@ Resources: Google Colab Standard GPU <br>
 Model Architecture: 2Cov, 2MaxPool, Flatten, Dense, Final output 
 <br><hr><br>
 
-<br/>
-
 
 
 ![image](https://user-images.githubusercontent.com/63104472/234478794-67bf1708-89d8-4d53-b143-6afc3d815e08.png)
 
-
-<h3><b>Try the model yourself:</b></h3><br>
+<br>
+<h3><b>Try the model yourself:</b></h3>
 You can download the alreading <a href="https://github.com/Kmohamedalie/DTM_Deep_learning_Euclid_dataset/blob/master/Trained_Euclid_model.sav">trained model</a> load it to your IDE and make prediction:
