@@ -2,11 +2,10 @@
 The Euclid dataset was created by <a href="https://www.unibo.it/sitoweb/guido.borghi">Prof. Guido Borghi</a> at the University of Bologna for pedagogical purpose, for trainig both computer and non-computer science students in the <a href="https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/466769">Digital Transformation Managemnt</a> degree. The entire dataset consist 8000 black&white images with size 224x224 and four(4) different category of geometrical shapes: rectangle, rhombus , square and triangle respectively.
 <br/>
 <img src="https://www.dummies.com/wp-content/uploads/258491.image3.jpg">
+<br/>
 
 
-
-<h4><b>Final output:</b></h4><br>
-Data: Malaria Cell from <a href="https://lhncbc.nlm.nih.gov/LHC-research/LHC-projects/image-processing/malaria-screener.html">NIH</a><br>
+<h3><b>Final output:</b></h3><br>
 Validation accurary: 97.90% <br>
 Training time: 7m  16s <br>
 Resources: Google Colab Standard GPU <br>
