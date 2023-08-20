@@ -1,5 +1,8 @@
 # **Pattern recognition using CNN**
 The Euclid dataset was created by <a href="https://www.unibo.it/sitoweb/guido.borghi">Prof. Guido Borghi</a> at the University of Bologna for pedagogical purpose, for trainig both computer and non-computer science students Machine and Deep Learning in the <a href="https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/466769">Digital Transformation Management</a> degree. The entire dataset consist 8000 black&white images with size 224x224 and four(4) different category of geometrical shapes: rectangle, rhombus , square and triangle respectively.
+
+
+**Complete Jupyter Notebook:** [Link](https://github.com/Kmohamedalie/DTM_Deep_learning_Euclid_dataset/blob/master/Euclid_Dataset_DL.ipynb)
 <br/>
 <img src="https://www.dummies.com/wp-content/uploads/258491.image3.jpg">
 <br/>
